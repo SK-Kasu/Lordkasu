@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasu</h1>
 <h3 align="center">Software Engineer | Cybersecurity  Enthusiast</h3>
 
-- 🔭 I’m currently working on **ChainChama**
+- 🔭 I’m currently working on **ChamaFlow & i-tourism planner**
 
 - 💬 Ask me about **Secure Web application development**
 
